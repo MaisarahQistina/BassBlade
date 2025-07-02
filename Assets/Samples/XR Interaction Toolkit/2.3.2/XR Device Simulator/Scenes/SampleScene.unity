@@ -3351,7 +3351,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: bass blade
+  m_text: bass.blade
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 230f9cf75701fa641899e862b2bfb534, type: 2}
   m_sharedMaterial: {fileID: -4288253018230275055, guid: 230f9cf75701fa641899e862b2bfb534, type: 2}
